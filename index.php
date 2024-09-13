@@ -7,6 +7,8 @@
           <div class="promo pe-md-3 pe-lg-5">
             <h1 class="headline mb-3">
 
+            <!-- TEST -->
+
               Plugin hỗ trợ lấy bài nhanh<br>cho WordPress
             </h1><!--//headline-->
             <div class="subheadline mb-4">
