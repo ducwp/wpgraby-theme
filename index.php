@@ -7,7 +7,7 @@
           <div class="promo pe-md-3 pe-lg-5">
             <h1 class="headline mb-3">
 
-              Plugin hỗ trợ viết bài nhanh<br>cho WordPress
+              Plugin hỗ trợ lấy bài nhanh<br>cho WordPress
             </h1><!--//headline-->
             <div class="subheadline mb-4">
               Lấy bài viết nhanh với đầy đủ: Tiêu đề, tóm tắt, nội dung, hình đại diện, từ khóa...chỉ với <b>1-Click</b>
